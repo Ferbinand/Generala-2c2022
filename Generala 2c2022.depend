@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1668136084 source:c:\users\marian\desktop\generala juan\generala 2c2022\main.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<ctime>
+	<Windows.h>
+	<string.h>
+	"FuncionesGenerala.h"
+
+1668136113 c:\users\marian\desktop\generala juan\generala 2c2022\funcionesgenerala.h
+
